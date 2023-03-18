@@ -25,7 +25,7 @@ Your users should be able to:
 ### Links
 
 - Solution URL: [Code](https://github.com/esthedav/order-summary-component)
-- Live Site URL: [Live site](https://your-live-site-url.com)
+- Live Site URL: [Live site](https://esthedav.github.io/order-summary-component/)
 
 ## My process
 
