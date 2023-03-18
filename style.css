@@ -3,6 +3,7 @@
     --Pale-blue: hsl(225, 100%, 94%);
     --Bright-blue: hsl(245, 75%, 52%);
     --Bright-blue-hover: hsl(252, 100%, 72%);
+    --White: #ffffff;
     /* Secondary colors */
     --Very-pale-blue: hsl(225, 100%, 98%);
     --Very-desaturated-blue: hsl(225, 100%, 96%);
@@ -43,7 +44,7 @@ body {
 .card {
     width: 460px;
     border-radius: 2rem;
-    background: var(--Very-pale-blue);
+    background: var(--White);
 }
 .card__hero {
     display: inline-block;
